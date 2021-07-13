@@ -1,0 +1,8 @@
+{
+  "jupyter.lab.shortcuts": [],
+  "title": "labext-test",
+  "description": "labext-test settings.",
+  "type": "object",
+  "properties": {},
+  "additionalProperties": false
+}
